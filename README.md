@@ -440,6 +440,9 @@ Aavescan - a live and historical rates aggregator for the Aave protocol, enablin
 
 Coin Interest Rate - a dashboard showcasing borrowing and lending rates for USDC and DAI
 
+[Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
+
+
 DefiScan - a read-only DeFi profile explorer for Compound, Uniswap, and SpankChain
 
 Etherscan - a block explorer and muti-purpose analytics platform for Ethereum
@@ -455,6 +458,8 @@ UniswapROI - a calculator to help you analyze your investments in Uniswap and fi
 Whois0x - a database of wallet addresses and their linked social media accounts that also provides easy to understand DeFi stats for each address
 
 # Education📚
+
+[Chartscout](https://chartscout.io/trading-education) - Learn crypto chart patterns through real-time examples and automated pattern recognition
 
 Cryptofilter - a community-curated DeFi & web3 news & info aggregator
 
